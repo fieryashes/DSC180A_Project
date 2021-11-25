@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "alsehgal/methodology5:latest",
+    "build-script": "python run.py"
+}
