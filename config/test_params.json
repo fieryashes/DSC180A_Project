@@ -1,0 +1,5 @@
+{
+    "folder_for_output": "test",
+    "tweets_fn": "test/test/data/sample_tweets.json",
+    "num_tweets": "500"
+}
