@@ -1,8 +1,6 @@
 {
     "download_tweet_params": {
-        "start": "datetime.date(2020, 3, 22)",
-        "end": "datetime.date(2021, 10, 11)",
-        "": "data/tweet_dataset.csv"
+        "id_fn": "data/tweet_dataset.csv"
     },
     "hydrate_tweet_params": {
         "subset_size": "2000000",
